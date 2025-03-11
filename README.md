@@ -2,7 +2,7 @@
 
 An intelligent travel planning application powered by Google's Gemini AI that helps users create personalized travel itineraries with real-time flight information and interactive chat assistance.
 
-![AI Travel Planner](https://i.imgur.com/YourScreenshot.png)
+
 
 ## Features ✨
 
